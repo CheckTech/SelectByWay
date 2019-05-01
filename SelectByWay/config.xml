@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<resources>
+		<resource name="SelectByWay" path="SelectByWay.CorelAddon">
+			<resourceMap>
+				<!-- Toolbox icon and string resource -->
+				<resEntry id="181dbca6-2c75-4b0b-8af2-dc3eb08a97d2" string="10223" icon="104"/>
+      </resourceMap>
+		</resource>
+	</resources>
+</config>
